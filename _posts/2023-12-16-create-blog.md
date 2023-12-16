@@ -6,6 +6,7 @@ layout: post
 # 建立Github博客
 ## 选用主题
 Contrast Jekyll theme : [https://github.com/niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast)
+
 预览 Contrast Jekyll theme : [https://niklasbuschmann.github.io/contrast/](https://niklasbuschmann.github.io/contrast/)
 
 ## 入门视频 *我待做个视频
