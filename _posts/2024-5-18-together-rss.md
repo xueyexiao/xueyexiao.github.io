@@ -5,7 +5,7 @@ layout: post
 
 > 避免手动一个一个添加RSS，蜜柑计划提出聚合中文汉化组的RSS来进行聚合添加。
 
-蜜柑计划（2024-5-18测试可以裸连）：https://mikanani.hacgn.fun/
+蜜柑计划（2024-5-18测试可以裸连）：[https://mikanani.hacgn.fun/](https://mikanani.hacgn.fun/)
 
 进入网址后注册
 
