@@ -1,5 +1,5 @@
 ---
-title:  "bt 请你小心这些问题"
+title:  "BT 请你小心这些问题"
 layout: post
 ---
 
