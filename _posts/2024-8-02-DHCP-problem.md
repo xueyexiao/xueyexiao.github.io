@@ -4,13 +4,16 @@ layout: post
 ---
 
 
-**问题描述:**网络时好时坏, 之前没这样. **最后定性:DHCP异常**
+**问题描述:**网络时好时坏, 之前没这样. **最后定性:DHCP异常**  
 
-**IP配置环境:**自动获取IP, DNS手动设置
+
+**IP配置环境:**自动获取IP, DNS手动设置  
+
 
 尝试一:重启网卡, 反复ping 网关, 查看ipconfig/all.
 
-显示PING:常见故障, ip显示获取169
+显示PING:常见故障, ip显示获取169  
+  
 
 尝试二:重启电脑. 
 
@@ -30,7 +33,7 @@ layout: post
 
 网络恢复
 
-查询一:交换机 dis arp | include IP_VAL, 查看ipconfig/all.
+查询一:交换机 `dis arp | include IP_VAL`, 查看ipconfig/all.
 
 MAC两者对应
 
