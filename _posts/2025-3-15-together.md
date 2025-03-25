@@ -58,3 +58,19 @@ layout: post
 ---
 
 
+⭐⭐⭐⭐⭐ 几乎最大的公益图书网站, 涵括各类书籍和各种语言. - 书籍 下载
+
+✈**[z-library](https://z-library.sk/)** - z-library.sk
+
+
+---
+
+
+⭐⭐⭐⭐ 几乎是屈指可数的国内盗版游戏下载站, 使用云盘做存储比较容易没. - 游戏 下载
+
+**[gamer520](https://www.gamer520.com/)** - gamer520.com
+
+
+
+
+
